@@ -11,4 +11,8 @@ ng generate component saludo
 
 ng generate component cabecera
 
+ng build
 
+ng generate component identidad
+
+ng generate component navegacion
