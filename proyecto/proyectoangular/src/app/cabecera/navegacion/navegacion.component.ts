@@ -8,5 +8,7 @@ import { Component } from '@angular/core';
   styleUrl: './navegacion.component.css'
 })
 export class NavegacionComponent {
-
+    clickEnItem(pagina:string):void{
+        console.log("has hecho click en"+pagina);
+    };
 }

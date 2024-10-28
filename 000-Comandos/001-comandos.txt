@@ -16,3 +16,13 @@ ng build
 ng generate component identidad
 
 ng generate component navegacion
+
+ng generate component inicio
+
+ng generate component sobremi
+
+ng generate component cursos
+
+ng generate component contacto
+
+ng generate component piedepagina
