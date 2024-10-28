@@ -6,3 +6,5 @@ npm install -g @angular/cli
 ng new proyectoangular
 
 cd proyectoangular
+
+ng generate component saludo --standalone=false
