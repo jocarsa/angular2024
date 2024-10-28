@@ -7,4 +7,8 @@ ng new proyectoangular
 
 cd proyectoangular
 
-ng generate component saludo --standalone=false
+ng generate component saludo
+
+ng generate component cabecera
+
+
