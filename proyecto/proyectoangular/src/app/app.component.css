@@ -1,0 +1,11 @@
+.bloque{
+    background:white;
+    display:block;
+    padding:20px;
+    margin:0px;
+    width:800px;
+    margin:auto;
+}
+.bloque:first-child{
+    border-radius:20px 20px 0px 0px;
+}

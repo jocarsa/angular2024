@@ -1,3 +1,12 @@
+:root{
+    --uno: #32cd32;
+    --dos: #00b76a;
+    --tres: #009c87;
+    --cuatro: #00808c;
+    --cinco: #00637b;
+    --seis: #2f4858;
+}
 body{
     font-family: sans-serif;
+    background:var(--seis);
 }
