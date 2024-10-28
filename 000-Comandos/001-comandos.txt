@@ -1,0 +1,4 @@
+mkdir proyecto
+cd proyecto
+
+npm install -g @angular/cli
