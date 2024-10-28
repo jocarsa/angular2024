@@ -25,4 +25,10 @@ import { PiedepaginaComponent } from './piedepagina/piedepagina.component';
 })
 export class AppComponent {
   title = 'proyectoangular';
+  
+  mostrarComponente = true;
+  ejecutomostrar(){
+  console.log("ok hola")
+    console.log(this.mostrarComponente)
+  }
 }
