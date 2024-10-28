@@ -2,3 +2,7 @@ mkdir proyecto
 cd proyecto
 
 npm install -g @angular/cli
+
+ng new proyectoangular
+
+cd proyectoangular
